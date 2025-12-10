@@ -1,0 +1,7 @@
+{
+  "name": "ConnectAI: Combat Loneliness",
+  "description": "An intelligent companion and resource hub designed to help users understand the loneliness epidemic, visualize trends, and find local community connections using AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
